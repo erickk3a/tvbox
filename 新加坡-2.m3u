@@ -1,0 +1,152 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="新加坡-2",ASTRO SUPERSPORTS 1 4K
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305" group-title="新加坡-2",NOW SPORTS 4K 616
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="新加坡-2",HBO
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941648
+#EXTINF:-1 tvg-name="HBOHITS" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="新加坡-2",HBO Hits
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941647
+#EXTINF:-1 tvg-name="HBOFAMILY" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="新加坡-2",HBO Family
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941646
+#EXTINF:-1 tvg-name="HBOSIGNATURE"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="新加坡-2",HBO Signature
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941645
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="新加坡-2",Cinemax
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941659
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="新加坡-2",卫视电影台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941625
+#EXTINF:-1 tvg-name="卫视中文台" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="新加坡-2",卫视中文台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941624
+#EXTINF:-1 tvg-name="天映电影" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="新加坡-2",天映电影
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941618
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="新加坡-2",天映经典
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941639
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/825-hub-e-city.png" group-title="新加坡-2",HUB都会
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941632
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202001/14/131351sp4jteuve04j4m00.png" group-title="新加坡-2",HUB娱家
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941634
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新加坡-2",国家地理频道
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941665
+#EXTINF:-1 tvg-name="国家地理野生" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="新加坡-2",国家地理野生频道
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941664
+#EXTINF:-1 tvg-name="BBCEARTH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="新加坡-2",BBCEarth
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941667
+#EXTINF:-1 tvg-name="BBCLIFESTYLE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="新加坡-2",BBCLifestyle
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941668
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="新加坡-2",History
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941661
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="新加坡-2",AXN
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941660
+#EXTINF:-1 tvg-name="WARNERTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="新加坡-2",WarnerTV
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941652
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://upload.112114.xyz/logo/Crime%20%26%20Investigation.png" group-title="新加坡-2",CI
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941666
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="新加坡-2",Lifetime
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941669
+#EXTINF:-1 tvg-name="Paramount Network Asia" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png" group-title="新加坡-2",Paramount Network
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941654
+#EXTINF:-1 tvg-name="BLUEANTENTERTAINMENT" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1630487263_thumb-rock-entertainment.png" group-title="新加坡-2",ROCK ENTERTAINMENT
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941643
+#EXTINF:-1 tvg-name="TravelXP" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="新加坡-2",TravelXP
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941662
+#EXTINF:-1 tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="新加坡-2",HITS
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941578
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Hits.png" group-title="新加坡-2",HITS MOVIES
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941577
+#EXTINF:-1 tvg-name="CINEMAWORLD" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="新加坡-2",CINEMAWORLD
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941658
+#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="新加坡-2",Animax
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941676
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="新加坡-2",Nickelodeon
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941671
+#EXTINF:-1 tvg-name="NICKJR." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="新加坡-2",NickJr.
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941670
+#EXTINF:-1 tvg-name="CBEEBIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="新加坡-2",CBeebies
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941672
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="新加坡-2",CN卡通频道
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941673
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="新加坡-2",Boomerang
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941674
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="新加坡-2",Dreamworks
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941656
+#EXTINF:-1 tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="新加坡-2",NOW紫金国际台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941630
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="新加坡-2",BEIN SPORTS
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941569
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="新加坡-2",BEIN SPORTS 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941568
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="新加坡-2",BEIN SPORTS 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941567
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/201-hub-sports-1.png" group-title="新加坡-2",Hub Sports 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941573
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/202-hub-sports-2.png" group-title="新加坡-2",Hub Sports 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941572
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/SPOTV.png" group-title="新加坡-2",SPO TV
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941564
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/SPOTV2.png" group-title="新加坡-2",SPO TV2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941563
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="新加坡-2",NBA TV
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941562
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/GEM.png" group-title="新加坡-2",GEM
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941608
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/KBS%20World.png" group-title="新加坡-2",KBS World
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941604
+#EXTINF:-1 tvg-name="One TV Asia" tvg-logo="https://upload.112114.xyz/logo/ONE.png" group-title="新加坡-2",ONE	
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941601
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.112114.xyz/logo/TVN.png" group-title="新加坡-2",tvN
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941623
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="新加坡-2",CNN
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690
+#EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBC%20World%20News.png" group-title="新加坡-2",BBC World News
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941693
+#EXTINF:-1 tvg-name="CNBCHONGKONG" tvg-logo="https://upload.112114.xyz/logo/CNBC%20Asia%20Channel.png" group-title="新加坡-2",CNBC
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689
+#EXTINF:-1 tvg-name="BLOOMBERGTV" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="新加坡-2",Bloomberg
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692
+#EXTINF:-1 tvg-name="NHK" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD%20PREMIUM.png" group-title="新加坡-2",NHK
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611
+#EXTINF:-1 tvg-name="NHKWORLD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD-JAPAN.png" group-title="新加坡-2",NHK World Japan
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941610
+#EXTINF:-1 tvg-name="ARIRANGTV" tvg-logo="https://upload.112114.xyz/logo/Arirang%20TV.png" group-title="新加坡-2",arirang Korea
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614
+#EXTINF:-1 tvg-name="SKYNEWS" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="新加坡-2",Sky News
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="新加坡-2",Fox News
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941685
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://upload.112114.xyz/logo/EURONEWS.png" group-title="新加坡-2",EuroNews
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941686
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://upload.112114.xyz/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="新加坡-2",DW English
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687
+#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="新加坡-2",CNA
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941688
+
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032529
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032528
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032527
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 4
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032526
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032525
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 6
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032524
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 7
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032523
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 8
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032522
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 9
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032521
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 10
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032520
+#EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡-2",HUB PREMIER 11
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032519
+
+
+
+
+
+
